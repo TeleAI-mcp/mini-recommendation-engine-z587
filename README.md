@@ -1,2 +1,3 @@
-# mini-recommendation-engine-z587
-Automated issue comment bot repository
+# Mini Recommendation Engine Z587
+
+Automated issue comment bot repository.
